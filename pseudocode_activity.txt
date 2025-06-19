@@ -1,0 +1,26 @@
+Start
+1. select time zone for clock
+- Pacific Daylight Time
+- Central Daylight Time
+- Alaska Daylight Time
+2. select format
+- 12 hours
+- 24 hours
+3. chose what time the alarm will go off
+- time 
+- what day/days
+4. if 12 hour format is selected, chose wht time of Daylight
+- AM
+- PM
+5. check if the time that was selected Equal the alarms time
+6. if yes
+6a. alarm will be set off
+7. display options
+- stop
+- snooze
+7a if user selects stop, stop the alarm from going off and exit program
+7b if user selects snooze, snooze for 10 minutes
+after 10 minutes have passed, set the alarm off and ask the user once more to stop or snooze?
+(cycle)
+if the time that was selected is not equal to the alrams time, wait till its the correct time
+End
